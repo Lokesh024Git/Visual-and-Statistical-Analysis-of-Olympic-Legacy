@@ -1,1 +1,3 @@
-# Visual-and-Statistical-Analysis-of-Olympic-Legacy
+This project aims to explore 120 years of Olympic history from 1896 to 2016 through comprehensive data visualization and statistical analysis using Power BI. It seeks to uncover insights into athlete demographics, including the youngest and oldest Olympians, and examine gender dynamics in participation. 
+
+By comparing Summer and Winter Games, the project will elucidate variations in sports participation and medal distributions over time. Ultimately, this study aims to provide a nuanced understanding of the evolving global sporting landscape and the historical influences shaping Olympic achievements.
